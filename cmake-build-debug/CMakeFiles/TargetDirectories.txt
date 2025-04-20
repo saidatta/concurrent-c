@@ -1,0 +1,4 @@
+/Users/venkatamunnangi/Programming/own/concurrent-c/concurrent-c/cmake-build-debug/CMakeFiles/01_threads_basic.dir
+/Users/venkatamunnangi/Programming/own/concurrent-c/concurrent-c/cmake-build-debug/CMakeFiles/02_threads_args_retval.dir
+/Users/venkatamunnangi/Programming/own/concurrent-c/concurrent-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/venkatamunnangi/Programming/own/concurrent-c/concurrent-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+Cannot generate into /Users/venkatamunnangi/Programming/own/concurrent-c/concurrent-c
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
